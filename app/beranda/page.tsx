@@ -1,10 +1,10 @@
-import { Navbar } from "./components/navbar"
-import { Footer } from "./components/footer"
-import  { RightContent } from "./components/right_content" 
-import { Beranda } from "./beranda/brn"
+import { Navbar } from "../components/navbar"
+import { Footer } from "../components/footer"
+import  { RightContent } from "../components/right_content" 
+import { Beranda } from "../beranda/brn"
 
 
-export default function Home() {
+export default function Brn() {
   return (
     <>
       <Navbar />
